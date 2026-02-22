@@ -1,0 +1,13 @@
+﻿id,description,product_type_id,status,authorized,created_by,created_date,last_modified_by,last_modified_date,version
+26,Mandates,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+27,Customers,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+28,Report,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+29,Audit Logs,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+30,Settings,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+31,User Management,4,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+32,Invoice,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+33,Invoice Catalog,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+34,Customers,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+35,Audit Trails,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+36,Settings,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0
+37,Access Management,6,0,0,System,2022-12-30 00:00:00,System,2022-12-30 00:00:00,0

@@ -13,13 +13,18 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws Exception {
         Path path = Paths.get(
-                ClassLoader.getSystemResource("csv/refs.csv").toURI()
+                ClassLoader.getSystemResource("csv/pending.csv").toURI()
     );
 
         List<String[]>data = readLineByLine(path);
+        StringBuilder sql = new StringBuilder("( ");
         data.forEach(o -> {
-            System.out.println("('" +o[0]+"'),");
+            System.out.println("'"+o[1]+"',");
+            sql.append("'").append(o[1]).append("', ");
         });
+        sql.append(" )");
+        //System.out.println(sql.toString());
+
 ////
 ////     report service
 //        data.forEach(o -> {

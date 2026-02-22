@@ -1,0 +1,11 @@
+﻿id,type_id,product_type_id,name,description,owner_identification,status,authorized,created_by,created_date,last_modified_by,last_modified_date,version
+301,1,6,Business Owner,Business owner role for e-invoicing businesses,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+302,2,6,Administrator,Administrator role for e-invoicing businesses,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+303,1,4,Business Owner,Business owner role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+304,2,4,Operations,Operations role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+305,2,4,Finance,Finance role for eDDs,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+306,2,4,Developer,Developer role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+307,2,4,Support,Support role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+308,2,4,View Only,View only role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+309,2,4,Administrator,Administrator role for eDDS,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
+310,2,6,View Only,View Only for e-invoicing businesses,,1,0,System,2026-02-13 18:16:06,System.auto,2026-02-13 18:16:06,1
